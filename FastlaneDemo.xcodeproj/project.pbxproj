@@ -408,6 +408,7 @@
 				255747421E1CFB7400DCCDB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		255747431E1CFB7400DCCDB5 /* Build configuration list for PBXNativeTarget "FastlaneDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +417,7 @@
 				255747451E1CFB7400DCCDB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
